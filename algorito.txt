@@ -1,0 +1,7 @@
+Exemplo 1
+
+    1. ler um nº informado pelo usuario;
+    2. Se o nº for maior que 10 entao mostre "É maior que 10";
+    3. Se não for maior que 10 entao mostre "Não e maior que 10";
+   
+        
